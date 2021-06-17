@@ -17,10 +17,10 @@ class chat():
     questionAnswerDict = {
         "Please enter your First Name.": "John",
         "Please enter your Last Name.": "Doe",
-        "Do you have a claim for unemployment bennefits currently filed with Virginia": "Yes",
+        "Do you have a claim for unemployment benefits currently filed with Virginia": "Yes",
         "Would you like to view your claim summary": "No",
         "Please enter your Social Security Number": "555555555",
-        "John , please confirm that 555555555 , please confirm that": "Yes",
+        "John , please confirm that 555555555 is your SSN": "Yes",
         "Thank you, Please enter the first four digits of your six digit Personal Identification Number.": "5555",
         "Enter you street address now.": "5555 Some Place",
         "Enter your city now": "Some Place",
